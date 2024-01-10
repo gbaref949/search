@@ -1,0 +1,24 @@
+{
+  "name": "search-project",
+  "version": "1.0.0",
+  "description": "Build a React component that simulates a Google-like search bar interface, allowing users to input a search term and trigger a search action.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbaref949/search-project.git"
+  },
+  "keywords": [
+    "Search",
+    "Google-Search",
+    "React-Project"
+  ],
+  "author": "Georgiana Barefield",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gbaref949/search-project/issues"
+  },
+  "homepage": "https://github.com/gbaref949/search-project#readme"
+}
