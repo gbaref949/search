@@ -6,8 +6,8 @@ const Search = () => {
       Google Search
       <br/>
     <form action="http://google.com" method="get" target="_blank">
-        <input type="text" name="q" id="q" />
-        <input type="submit" value="search google"></input>
+        <input type="text" name="bar" maxLength={"255"} id="bar" />
+        <input type="submit" value="Search"></input>
     </form>
     </div>
   );
